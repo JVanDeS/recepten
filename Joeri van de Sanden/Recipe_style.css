@@ -1,0 +1,52 @@
+	body {
+		background-image: url("http://www.intrawallpaper.com/static/images/White-Background-BD1.png");
+	}
+
+	h1 {
+		text-align: center;
+	}
+
+	h2 {
+		text-align: center;
+	}
+
+	h3 {
+		text-align: center;
+	}
+		
+	b {
+		text-align: center;
+	}
+
+	img {
+		display: block;
+        margin: 0 auto;
+	}
+
+	img {
+		width: 266px;
+		height: 177px;
+	}
+
+	div.Links {
+		background-color: white;
+		display: inline-block;
+		border-radius: 10px;
+    	border: 2px solid red;
+   		padding: 20px; 
+    	width: 200px;
+   		height: 350px; 
+	}
+
+	#inleiding {
+		width: 600px;
+		display: inline-block;
+		text-align: center;
+		padding-left: 350px;
+	}
+
+	div.rechts {
+		text-align: center;
+		float: right;
+		padding-right: 350px;
+	}
